@@ -1,1 +1,1 @@
-# codeartz--ekili-botu
+﻿Code Artz'dan Sizlere Mükemmel %100 Türkçe Çekiliş Botu Altyapısı!
